@@ -1,177 +1,119 @@
 <div align="center">
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   > SYSTEM BOOT...                                         │
-│   > LOADING PROFILE: YOUR_GITHUB_USERNAME                  │
-│   > STATUS: ONLINE ███████████████████ 100%                │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > SYSTEM BOOT...                                      │
+│   > LOADING PROFILE: harshitx946                        │
+│   > STATUS: ONLINE ██████████ 100%                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-<img src="YOUR_BANNER_GIF_LINK" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=hhHii+I+am+Harshit+%2C+Welcome+to+my+tech+corner+%3E_;final+year+%7C+GL+Bajaj+%7C+IT;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm HARSHIT SAXENA
+<br/>
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+---
+
+<div align="center">
+
+## `📊 github_stats.exe`
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshitx946&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=harshitx946&theme=chartreuse-dark&hide_border=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api?username=harshitx946&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hsx946?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
 
 ---
 
-# <img src="https://img.icons8.com/fluency/48/console.png" width="30"/> About Me
+<details>
+<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
 
-```yaml
-Name: YOUR_NAME
+<br/>
 
-Location: India
+<div >
 
-Education:
-   B.Tech Information Technology
-
-College:
-   GL Bajaj Institute of Technology & Management
-
-Current Focus:
-   • Data Structures & Algorithms
-   • MERN Stack
-   • System Design
-   • AI Integration
-
-Currently Learning:
-   • Advanced DSA
-   • Backend Development
-   • DevOps
-   • Cloud
-
-Ask Me About:
-   • C++
-   • JavaScript
-   • React
-   • Node.js
-   • MongoDB
-
-Fun Fact:
-   I debug more than I sleep ☕
+```
+Name       :  Harshit Saxena
+From       :  Greater Noida, UP, India
+Education  :  Pursuing B.Tech in Information Technology
+              from GL Bajaj Institute of Technology and Management 4th Year (Final Year!)
+              
+Interests  :  Dev stuff & playing with legos - both involve building cool things!
 ```
 
----
-
-# ⚡ Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-
-<img src="https://skillicons.dev/icons?i=c" />
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=ts" />
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=tailwind" />
-
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<img src="https://skillicons.dev/icons?i=nextjs" />
-
-<img src="https://skillicons.dev/icons?i=redux" />
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-<img src="https://skillicons.dev/icons?i=express" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=firebase" />
-
-<img src="https://skillicons.dev/icons?i=supabase" />
-
-</p>
-
----
-
-## DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-<img src="https://skillicons.dev/icons?i=postman" />
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<img src="https://skillicons.dev/icons?i=vercel" />
-
-<img src="https://skillicons.dev/icons?i=netlify" />
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+## `> ls skills/`
+
+**// languages**
+
+<img src="https://skillicons.dev/icons?i=c,c++,javascript,python&theme=dark" width="230" />
+
+<br/><br/>
+
+**// frontend & backend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,f&theme=dark" width="380" />
+
+<br/><br/>
+
+**// databases & devops**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,gcp,aws&theme=dark" width="380" />
+
+<br/><br/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+## `> ./connect.sh`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/harshitsaxena94/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/harshitx946)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%2300FF41.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/hsx946/)
+[![Instagram](https://img.shields.io/badge/Instagram-%2300FF41.svg?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/harshitxsaxena)
+[![X](https://img.shields.io/badge/X-%2300FF41.svg?style=flat-square&logo=x&logoColor=black)](https://x.com/Harshit_946)
+
+<br/>
+
+```
+📬  harshitx946@gmail.com
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> session terminated
+> thanks for visiting _
+```
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
+
+</div>
+
+</details>
