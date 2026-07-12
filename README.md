@@ -59,7 +59,7 @@ Interests  :  Dev stuff & playing with legos - both involve building cool things
 
 **// languages**
 
-<img src="https://skillicons.dev/icons?i=c,c++,javascript,python&theme=dark" width="230" />
+<img src="https://skillicons.dev/icons?i=c,cpp,javascript,python&theme=dark" width="230" />
 
 <br/><br/>
 
