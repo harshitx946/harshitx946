@@ -1,20 +1,20 @@
 <div align="center">
 
-```
+```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   > SYSTEM BOOT...                                      │
-│   > LOADING PROFILE: aditiiprasad                       │
+│   > LOADING PROFILE: harshit                            │
 │   > STATUS: ONLINE ██████████ 100%                      │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=hola+!+I+am+Harshit Saxena+%2C+Welcome+to+my+tech+corner+%3E_;final+year+%7C+GL Bajaj+%7C+IT;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=700&lines=Hey+There!+I'm+Harshit+👋;B.Tech+IT+Student+%7C+GL+Bajaj+(AKTU);DSA+in+C%2B%2B+%7C+MERN+Stack+Developer;Building+Projects+%26+Preparing+for+Product+Companies;Learning+Something+New+Every+Day" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=aditiiprasad&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=00ff41&label=Profile+Views&style=flat-square"/>
 
 </div>
 
@@ -22,35 +22,84 @@
 
 <div align="center">
 
-## `📊 github_stats.exe`
+# 📊 github_stats.exe
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aditiiprasad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=aditiiprasad&theme=chartreuse-dark&hide_border=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api?username=aditiiprasad&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="165"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aditiiprasad?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=chartreuse-dark&layout=compact&hide_border=true" height="165"/>
+
+<br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
 
 ---
 
 <details>
-<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
+<summary align="center"><b>> CLICK TO OPEN PROFILE</b></summary>
 
-<br/>
+<br>
 
-<div >
+```text
+Name        : Harshit
 
+Location    : Greater Noida, Uttar Pradesh
+
+Education   : B.Tech in Information Technology
+              GL Bajaj Institute of Technology & Management
+              AKTU
+
+Current Goal: Crack Product-Based Companies
+
+Learning    : Data Structures & Algorithms (C++)
+              MERN Stack Development
+              AI Integration
+
+Currently   : Solving LeetCode Daily
+              Building Resume Projects
 ```
-Name       :  Aditi
-From       :  Gurgaon, Haryana, India
-Education  :  Pursuing B.Tech in Computer Science and Engineering
-              from BIT Mesra  4th Year (Final Year!)
-              
-Interests  :  Dev stuff & playing with legos - both involve building cool things!
-Currently  :  SWE Intern (AI/ML) @ DRDO, Bengaluru 
+
+---
+
+<div align="center">
+
+# > ls skills/
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css" />
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,vscode,postman" />
+
+<br><br>
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker" />
+
+<br><br>
+
+### DSA
+
+```text
+Arrays
+Strings
+Linked List
+Stack
+Queue
+Trees
+Graphs
+Dynamic Programming
+Greedy
+Heap
+Trie
 ```
 
 </div>
@@ -59,31 +108,18 @@ Currently  :  SWE Intern (AI/ML) @ DRDO, Bengaluru
 
 <div align="center">
 
-## `> ls skills/`
+# > coding.log
 
-**// languages**
+```text
+[★] Solving Striver A2Z DSA Sheet
 
-<img src="https://skillicons.dev/icons?i=java,c,javascript,typescript,python&theme=dark" width="230" />
+[★] Daily LeetCode Practice
 
-<br/><br/>
+[★] Building MERN Projects
 
-**// frontend & backend**
+[★] Preparing for Product-Based Company Placements
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,fastapi,flask&theme=dark" width="380" />
-
-<br/><br/>
-
-**// databases & devops**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git,github,gcp,aws&theme=dark" width="380" />
-
-<br/><br/>
-
-**// ai / ml**
-
-```
-[ NLP ]  [ LLM Integration ]  [ Transformers ]  [ GLiNER ]  [ DeBERTa ]
-[ HuggingFace ]  [ scikit-fuzzy ]  [ NumPy ]  [ Pandas ]  [ Pydantic ]
+[★] Exploring AI Integration in Web Applications
 ```
 
 </div>
@@ -92,12 +128,30 @@ Currently  :  SWE Intern (AI/ML) @ DRDO, Bengaluru
 
 <div align="center">
 
-## `> cat achievements.log`
+# > github_activity.sh
 
-```
-[★] LeetCode Knight ............ max rating 1,872 | 600+ problems | top 5.12% globally
-[★] Google Girl Hackathon 2025 . FINALIST -------- top 1% of all applicants
-[★] Flipkart Grid 7.0 .......... SEMI-FINALIST --- top out of 1.5L+ participants
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# > connect.sh
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=flat-square&logo=linkedin&logoColor=black)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-00FF41?style=flat-square&logo=github&logoColor=black)](https://github.com/yourusername)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-00FF41?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME)
+
+[![Twitter](https://img.shields.io/badge/X-00FF41?style=flat-square&logo=x&logoColor=black)](YOUR_TWITTER)
+
+<br>
+
+```text
+📧 your_email@gmail.com
 ```
 
 </div>
@@ -106,19 +160,14 @@ Currently  :  SWE Intern (AI/ML) @ DRDO, Bengaluru
 
 <div align="center">
 
-## `> ./connect.sh`
+```text
+> CURRENT OBJECTIVE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/aditiiprasad)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/aditiiprasad)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%2300FF41.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditiiprasad/)
-[![Instagram](https://img.shields.io/badge/Instagram-%2300FF41.svg?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/aditiiprasad)
-[![X](https://img.shields.io/badge/X-%2300FF41.svg?style=flat-square&logo=x&logoColor=black)](https://x.com/aditiiprasad)
-[![Discord](https://img.shields.io/badge/Discord-%2300FF41.svg?style=flat-square&logo=discord&logoColor=black)](https://discord.gg/aditiiprasad)
-
-<br/>
-
-```
-📬  aditi03prasad@gmail.com
+✔ Master DSA in C++
+✔ Build Strong MERN Projects
+✔ Learn System Design
+✔ Crack Top Product-Based Companies
+✔ Never Stop Learning 🚀
 ```
 
 </div>
@@ -127,13 +176,13 @@ Currently  :  SWE Intern (AI/ML) @ DRDO, Bengaluru
 
 <div align="center">
 
-```
+```text
 > session terminated
-> thanks for visiting _
+
+> Thanks for visiting my profile _
 ```
-<img src="img/image1.png" width="80" />
-&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3000&pause=500&color=00FF41&center=true&width=450&lines=See+You+Again!;Happy+Coding+🚀;Keep+Building!" />
 
 </div>
 
