@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Harshit
 
-<!--
-**harshitx946/harshitx946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student  
+💻 Passionate about Software Development & Problem Solving  
+🌱 Currently learning Data Structures & Algorithms in C++  
+⚡ Building Full Stack MERN Projects with AI integration  
+🎯 Preparing for Software Engineering internships and placements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages
+- C++
+- JavaScript
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+🎓 B.Tech Information Technology Student  
+💻 Passionate about Software Development & Problem Solving  
+🌱 Currently learning Data Structures & Algorithms in C++  
+⚡ Building Full Stack MERN Projects with AI integration  
+🎯 Preparing for Software Engineering internships and placements
+
+---
