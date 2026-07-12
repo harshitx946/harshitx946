@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=hola+!+I+am+Aditi+%2C+Welcome+to+my+tech+corner+%3E_;final+year+%7C+BIT+Mesra+%7C+CSE;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=hola+!+I+am+Harshit Saxena+%2C+Welcome+to+my+tech+corner+%3E_;final+year+%7C+GL Bajaj+%7C+IT;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
